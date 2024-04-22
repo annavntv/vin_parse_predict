@@ -10,8 +10,11 @@
 
 Заключающим этап работы был подготовлен класс, который на вход принимает vin-код автомобиля (один) и выдает информацию об автомобиле и предсказанную стоимость.
 
-Исследование можно посмотреть в файле `notebook.ipynb`
-Класс, предоставляющий инфо по ВИН-коду, лежит в `info_by_vin.py`
-Пример работы в `run_vin.py`
+Исследование можно посмотреть в файле [notebook.ipynb](https://github.com/annavntv/vin_parse_predict/edit/master/notebook.ipynb)
+
+Класс, предоставляющий инфо по ВИН-коду, лежит в [info_by_vin.py](https://github.com/annavntv/vin_parse_predict/edit/master/info_by_vin.py)
+
+Пример работы класса в [run_vin.py](https://github.com/annavntv/vin_parse_predict/edit/master/run_vin.py)
+
 
 
