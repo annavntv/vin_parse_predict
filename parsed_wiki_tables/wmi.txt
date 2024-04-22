@@ -1,0 +1,501 @@
+<table class="wikitable">
+<tbody><tr>
+<th>WMI
+</th>
+<th>Country
+</th>
+<th>Description
+</th>
+<th>Vehicle types
+</th></tr>
+<tr>
+<td>AFA
+</td>
+<td>South Africa
+</td>
+<td>Ford Motor Company of Southern Africa
+</td></tr>
+<tr>
+<td>JC0
+</td>
+<td rowspan="2">Japan
+</td>
+<td>Ford (made by Mazda)
+</td></tr>
+<tr>
+<td>JC2
+</td>
+<td>Ford Courier pickup (made by Mazda)
+</td></tr>
+<tr>
+<td>KNJ
+</td>
+<td>South Korea
+</td>
+<td>Ford (made by Kia)
+</td></tr>
+<tr>
+<td>LFA
+</td>
+<td>Taiwan
+</td>
+<td>Ford Lio Ho
+</td></tr>
+<tr>
+<td>LJX
+</td>
+<td rowspan="2">China
+</td>
+<td>Jiangling Motors Co., Ltd. (JMC) - Ford
+</td></tr>
+<tr>
+<td>LVS
+</td>
+<td>Changan Ford
+</td></tr>
+<tr>
+<td>MAJ
+</td>
+<td>India
+</td>
+<td>Ford India Pvt. Ltd.
+</td></tr>
+<tr>
+<td>MNA, MNB, MNC
+</td>
+<td rowspan="3">Thailand
+</td>
+<td rowspan="2">AutoAlliance Thailand
+</td>
+<td>Ford
+</td></tr>
+<tr>
+<td>MM0, MM6, MM7, MM8
+</td>
+<td>Mazda
+</td></tr>
+<tr>
+<td>MPB
+</td>
+<td>Ford Thailand Manufacturing
+</td></tr>
+<tr>
+<td>NM0
+</td>
+<td>Turkey
+</td>
+<td>Ford Otosan
+</td></tr>
+<tr>
+<td>PE1
+</td>
+<td rowspan="2">Philippines
+</td>
+<td>Ford Motor Company Philippines
+</td></tr>
+<tr>
+<td>PE3
+</td>
+<td>Mazda made by Ford Motor Company Philippines
+</td></tr>
+<tr>
+<td>PR8
+</td>
+<td>Malaysia
+</td>
+<td>Ford Malaysia Sdn. Bhd.
+</td></tr>
+<tr>
+<td>RHA
+</td>
+<td>Taiwan
+</td>
+<td>Ford Lio Ho
+</td></tr>
+<tr>
+<td>RL0
+</td>
+<td>Vietnam
+</td>
+<td>Ford Vietnam
+</td></tr>
+<tr>
+<td>SFA
+</td>
+<td>United Kingdom
+</td>
+<td>Ford Motor Company Ltd.
+</td></tr>
+<tr>
+<td>TW2
+</td>
+<td>Portugal
+</td>
+<td>Ford Lusitana SARL
+</td></tr>
+<tr>
+<td>UNI
+</td>
+<td>Ireland
+</td>
+<td>Henry Ford and Son Ltd.
+</td></tr>
+<tr>
+<td>VS6
+</td>
+<td>Spain
+</td>
+<td>Ford Espana SA
+</td></tr>
+<tr>
+<td>WF0
+</td>
+<td rowspan="2">Germany
+</td>
+<td>Ford Werke A.G.
+</td></tr>
+<tr>
+<td>WF1
+</td>
+<td>Merkur (Ford Werke A.G.)
+</td></tr>
+<tr>
+<td>XLC
+</td>
+<td>Netherlands
+</td>
+<td>Ford Nederland NV
+</td></tr>
+<tr>
+<td>X9F
+</td>
+<td>Russia
+</td>
+<td>Ford Motor Company ZAO
+</td></tr>
+<tr>
+<td>Y4F
+</td>
+<td>Belarus
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Union" class="extiw" title="w:Ford Union">Ford Union</a>
+</td></tr>
+<tr>
+<td>Z6F
+</td>
+<td>Russia
+</td>
+<td>Ford Sollers
+</td></tr>
+<tr>
+<td>1F1
+</td>
+<td rowspan="18">USA
+</td>
+<td>Ford Motor Company
+</td>
+<td>Ford MPV - limousine (through 2009)
+</td></tr>
+<tr>
+<td>1F6
+</td>
+<td>Detroit Chassis LLC
+</td>
+<td>Ford Basic (stripped) Chassis
+</td></tr>
+<tr>
+<td>1F7
+</td>
+<td>MSX International Detroit, MI
+</td>
+<td>Ford passenger car
+</td></tr>
+<tr>
+<td>1FA
+</td>
+<td rowspan="12">Ford Motor Company
+</td>
+<td>Ford passenger car
+</td></tr>
+<tr>
+<td>1FB
+</td>
+<td>Ford Bus
+</td></tr>
+<tr>
+<td>1FC
+</td>
+<td>Ford basic (stripped) chassis
+</td></tr>
+<tr>
+<td>1FD
+</td>
+<td>Ford incomplete vehicle
+</td></tr>
+<tr>
+<td>1FM
+</td>
+<td>Ford MPV
+</td></tr>
+<tr>
+<td>1FT
+</td>
+<td>Ford truck (completed vehicle)
+</td></tr>
+<tr>
+<td>1L1
+</td>
+<td>Lincoln passenger car - limousine
+</td></tr>
+<tr>
+<td>1LJ
+</td>
+<td>Lincoln incomplete vehicle
+</td></tr>
+<tr>
+<td>1LN
+</td>
+<td>Lincoln passenger car
+</td></tr>
+<tr>
+<td>1ME
+</td>
+<td>Mercury passenger car
+</td></tr>
+<tr>
+<td>1MH
+</td>
+<td>Mercury incomplete vehicle
+</td></tr>
+<tr>
+<td>1MR
+</td>
+<td>Continental passenger car <br>(Continental Mark VI &amp; VII 1981-1985 &amp;<br> Continental sedan 1982-1985)
+</td></tr>
+<tr>
+<td>1YV
+</td>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/AutoAlliance_International" class="extiw" title="w:AutoAlliance International">AutoAlliance International</a>
+</td>
+<td>Mazda 6, 626, MX-6
+</td></tr>
+<tr>
+<td>1ZV
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Ford Mustang</a> 2005-2014, Ford Probe
+</td></tr>
+<tr>
+<td>1ZW
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Eighth_generation_(1999–2002)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> 1999-2002
+</td></tr>
+<tr>
+<td>2FA
+</td>
+<td rowspan="11">Canada
+</td>
+<td rowspan="11">Ford Motor Company of Canada, Ltd.
+</td>
+<td>Ford passenger car
+</td></tr>
+<tr>
+<td>2FD
+</td>
+<td>Ford incomplete vehicle
+</td></tr>
+<tr>
+<td>2FM
+</td>
+<td>Ford MPV
+</td></tr>
+<tr>
+<td>2FT
+</td>
+<td>Ford truck (completed vehicle)
+</td></tr>
+<tr>
+<td>2L1
+</td>
+<td>Lincoln incomplete vehicle - limousine
+</td></tr>
+<tr>
+<td>2LJ
+</td>
+<td>Lincoln incomplete vehicle - hearse
+</td></tr>
+<tr>
+<td>2LM
+</td>
+<td>Lincoln MPV
+</td></tr>
+<tr>
+<td>2LN
+</td>
+<td>Lincoln passenger car
+</td></tr>
+<tr>
+<td>2ME
+</td>
+<td>Mercury passenger car
+</td></tr>
+<tr>
+<td>2MH
+</td>
+<td>Mercury incomplete vehicle
+</td></tr>
+<tr>
+<td>2MR
+</td>
+<td>Mercury MPV
+</td></tr>
+<tr>
+<td>3FA
+</td>
+<td rowspan="11">Mexico
+</td>
+<td rowspan="9">Ford Motor Company (Mexico)
+</td>
+<td>Ford passenger car
+</td></tr>
+<tr>
+<td>3FC
+</td>
+<td>Ford basic (stripped) chassis
+</td></tr>
+<tr>
+<td>3FD
+</td>
+<td>Ford incomplete vehicle
+</td></tr>
+<tr>
+<td>3FE
+</td>
+<td>Ford incomplete vehicle
+</td></tr>
+<tr>
+<td>3FM
+</td>
+<td>Ford MPV
+</td></tr>
+<tr>
+<td>3FT
+</td>
+<td>Ford truck (completed vehicle)
+</td></tr>
+<tr>
+<td>3LN
+</td>
+<td>Lincoln passenger car
+</td></tr>
+<tr>
+<td>3MA
+</td>
+<td>Mercury passenger car (88-95 Tracer)
+</td></tr>
+<tr>
+<td>3ME
+</td>
+<td>Mercury passenger car
+</td></tr>
+<tr>
+<td>3FN
+</td>
+<td rowspan="2">Blue Diamond Trucks S. De R. L. De C. V.
+</td>
+<td>Ford truck (completed vehicle)
+</td></tr>
+<tr>
+<td>3FR
+</td>
+<td>Ford incomplete vehicle
+</td></tr>
+<tr>
+<td>4F2
+</td>
+<td rowspan="8">USA
+</td>
+<td rowspan="8">Ford Motor Company
+</td>
+<td>Mazda MPV
+</td></tr>
+<tr>
+<td>4F4
+</td>
+<td>Mazda truck (completed vehicle)
+</td></tr>
+<tr>
+<td>4M2
+</td>
+<td>Mercury MPV
+</td></tr>
+<tr>
+<td>4N2
+</td>
+<td>Nissan MPV
+</td></tr>
+<tr>
+<td>5L1
+</td>
+<td>Lincoln MPV - limousine (2004-2009)
+</td></tr>
+<tr>
+<td>5LD
+</td>
+<td>Ford &amp; Lincoln incomplete vehicle - limousine (2010-2014)
+</td></tr>
+<tr>
+<td>5LM
+</td>
+<td>Lincoln MPV
+</td></tr>
+<tr>
+<td>5LT
+</td>
+<td>Lincoln truck (completed vehicle)
+</td></tr>
+<tr>
+<td>6FP
+</td>
+<td rowspan="2">Australia
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Australia" class="extiw" title="w:Ford Australia">Ford Australia</a>
+</td></tr>
+<tr>
+<td>6MP
+</td>
+<td>Mercury Capri made by <a href="https://en.wikipedia.org/wiki/Ford_Australia" class="extiw" title="w:Ford Australia">Ford Australia</a>
+</td></tr>
+<tr>
+<td>7A5
+</td>
+<td>New Zealand
+</td>
+<td>Ford New Zealand
+</td></tr>
+<tr>
+<td>8AF
+</td>
+<td>Argentina
+</td>
+<td>Ford Argentina
+</td></tr>
+<tr>
+<td>8XD
+</td>
+<td>Venezuela
+</td>
+<td>Ford Motor Venezuela
+</td></tr>
+<tr>
+<td>9BF
+</td>
+<td rowspan="2">Brazil
+</td>
+<td>Ford Brazil
+</td></tr>
+<tr>
+<td>94T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Troller_Ve%C3%ADculos_Especiais" class="extiw" title="w:Troller Veículos Especiais">Troller</a>
+</td></tr></tbody></table>
+

@@ -1,0 +1,122 @@
+
+<table class="wikitable">
+<tbody><tr>
+<th>VIN<br> Code</th>
+<th>GVWR Range in lbs.</th>
+<th>Brake System
+</th></tr>
+<tr>
+<td>A</td>
+<td>up to 3,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>B</td>
+<td>3,001 – 4,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>C</td>
+<td>4,001 – 5,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>D</td>
+<td>5,001 – 6,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>E</td>
+<td>6,001 – 7,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>F</td>
+<td>7,001 – 8,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>G</td>
+<td>8,001 – 8,500</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>H</td>
+<td>8,501 – 9,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>J</td>
+<td>9,001 – 10,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>K</td>
+<td>10,001 – 14,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>L</td>
+<td>14,001 – 16,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>M</td>
+<td>16,001 – 19,500</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>N</td>
+<td>19,501 – 26,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>P</td>
+<td>26,001 – 33,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>R</td>
+<td>33,001 – 55,000</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>S</td>
+<td>55,001 &amp; over</td>
+<td>Hydraulic
+</td></tr>
+<tr>
+<td>T</td>
+<td>10,001 – 14,000</td>
+<td>Air
+</td></tr>
+<tr>
+<td>U</td>
+<td>14,001 – 16,000</td>
+<td>Air
+</td></tr>
+<tr>
+<td>V</td>
+<td>16,001 – 19,500</td>
+<td>Air
+</td></tr>
+<tr>
+<td>W</td>
+<td>19,501 – 26,000</td>
+<td>Air
+</td></tr>
+<tr>
+<td>X</td>
+<td>26,001 – 33,000</td>
+<td>Air
+</td></tr>
+<tr>
+<td>Y</td>
+<td>33,001 – 55,000</td>
+<td>Air
+</td></tr>
+<tr>
+<td>Z</td>
+<td>55,001 &amp; over</td>
+<td>Air
+</td></tr></tbody></table>

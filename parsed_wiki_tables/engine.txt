@@ -1,0 +1,1881 @@
+<table class="wikitable">
+
+<tbody><tr>
+<th>Configuration
+</th>
+<th>Name
+</th>
+<th>Displacement
+</th>
+<th>Description
+</th>
+<th>Fuel
+</th>
+<th>Power (hp)
+</th>
+<th>Power (kW)
+</th>
+<th>VIN code
+</th>
+<th>Notes/Applications
+</th></tr>
+<tr>
+<td rowspan="1"><a href="https://en.wikipedia.org/wiki/straight-3" class="extiw" title="w:straight-3">I3</a>
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#1.0_L_Fox" class="extiw" title="w:Ford EcoBoost engine">Fox</a>
+</td>
+<td>1.0 L
+</td>
+<td>DOHC 12V Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a> (EcoBoost)
+</td>
+<td>Gasoline
+</td>
+<td>123
+</td>
+<td>91
+</td>
+<td>E
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fiesta_(sixth_generation)" class="extiw" title="w:Ford Fiesta (sixth generation)">Ford Fiesta</a> ('14-'17),<br> <a href="https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)" class="extiw" title="w:Ford Focus (third generation)">Ford Focus</a> ('15-'18)
+</td></tr>
+<tr>
+<td rowspan="56"><a href="https://en.wikipedia.org/wiki/straight-4" class="extiw" title="w:straight-4">I4</a>
+</td>
+<td rowspan="11"><a href="https://en.wikipedia.org/wiki/Ford_Pinto_engine#2.3_(LL23)" class="extiw" title="w:Ford Pinto engine">Lima (LL23)</a>
+</td>
+<td rowspan="11">2.3 L
+</td>
+<td>2-bbl. SOHC 8V
+</td>
+<td>Gasoline
+</td>
+<td>86-88
+</td>
+<td>63-65
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a>, <a href="https://en.wikipedia.org/wiki/Ford_Fairmont" class="extiw" title="w:Ford Fairmont">Ford Fairmont</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Zephyr" class="extiw" title="w:Mercury Zephyr">Mercury Zephyr</a>, <a href="https://en.wikipedia.org/wiki/Ford_Granada_(North_America)#Second_generation_(1981–1982)" class="extiw" title="w:Ford Granada (North America)">Ford Granada</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Fifth_generation_(1980–1982)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('81-'82)
+</td></tr>
+<tr>
+<td>2-bbl. SOHC 8V
+</td>
+<td>Propane
+</td>
+<td>86
+</td>
+<td>63
+</td>
+<td>6
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Granada_(North_America)#Second_generation_(1981–1982)" class="extiw" title="w:Ford Granada (North America)">Ford Granada</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Fifth_generation_(1980–1982)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('82)
+</td></tr>
+<tr>
+<td>1-bbl. SOHC 8V
+</td>
+<td>Gasoline
+</td>
+<td>88-90
+</td>
+<td>65-66
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> ('83-'86), <a href="https://en.wikipedia.org/wiki/Ford_Fairmont" class="extiw" title="w:Ford Fairmont">Ford Fairmont</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Zephyr" class="extiw" title="w:Mercury Zephyr">Mercury Zephyr</a> ('83), <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Fourth_generation_(1983–1986)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('83-'85)
+</td></tr>
+<tr>
+<td>1-bbl. SOHC 8V
+</td>
+<td>Propane
+</td>
+<td>88
+</td>
+<td>65
+</td>
+<td>6
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Fourth_generation_(1983–1986)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('83-'84)
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V
+</td>
+<td>Gasoline
+</td>
+<td>88-90
+</td>
+<td>65-66
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a> ('87-'90)
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V
+</td>
+<td>Gasoline
+</td>
+<td>105
+</td>
+<td>77
+</td>
+<td>M
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a> ('91-'93)
+</td></tr>
+<tr>
+<td>2-bbl. SOHC 8V Turbo
+</td>
+<td>Gasoline
+</td>
+<td>120
+</td>
+<td>88
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Mustang Turbo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri Turbo</a> ('81)
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V Turbo
+</td>
+<td>Gasoline
+</td>
+<td>145-155-175
+</td>
+<td>107-114-129
+</td>
+<td>W
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Mustang Turbo GT</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri Turbo RS</a> ('83-'84), <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird Turbo Coupe</a> ('83-'86), <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Sixth_generation_(1983–1988)" class="extiw" title="w:Mercury Cougar">Mercury Cougar XR7</a> ('84-'86), <a href="https://en.wikipedia.org/wiki/Merkur_XR4Ti" class="extiw" title="w:Merkur XR4Ti">Merkur XR4Ti</a> ('85-'89)
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>175-200-205
+</td>
+<td>129-147-151
+</td>
+<td>T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVO" class="extiw" title="w:Ford Mustang SVO">Ford Mustang SVO</a> ('84-'86)
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>150-190
+</td>
+<td>110-140
+</td>
+<td>W
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird Turbo Coupe</a> ('87) 190 hp w/ manual trans., 150 hp w/auto. trans.
+</td></tr>
+<tr>
+<td>Multi-port EFI SOHC 8V Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>150-190
+</td>
+<td>110-140
+</td>
+<td>T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird Turbo Coupe</a> ('88) 190 hp w/ manual trans., 150 hp w/auto. trans.
+</td></tr>
+<tr>
+<td rowspan="9"><a href="https://en.wikipedia.org/wiki/Ford_CVH_engine" class="extiw" title="w:Ford CVH engine">CVH</a>
+</td>
+<td rowspan="4">1.6L
+</td>
+<td>SOHC 8V 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>65-70
+</td>
+<td>48-52
+</td>
+<td>2
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx</a> ('81-'85), <a href="https://en.wikipedia.org/wiki/Ford_EXP#First_generation_(1982–1985)" class="extiw" title="w:Ford EXP">Ford EXP</a>, <a href="https://en.wikipedia.org/wiki/Mercury_LN7" class="extiw" title="w:Mercury LN7">Mercury LN7</a> ('82-'83)
+</td></tr>
+<tr>
+<td>SOHC 8V 2-bbl. H.O.
+</td>
+<td>Gasoline
+</td>
+<td>80
+</td>
+<td>59
+</td>
+<td>4
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx</a> ('82-'85), <a href="https://en.wikipedia.org/wiki/Ford_EXP#First_generation_(1982–1985)" class="extiw" title="w:Ford EXP">Ford EXP</a> ('82-'85), <a href="https://en.wikipedia.org/wiki/Mercury_LN7" class="extiw" title="w:Mercury LN7">Mercury LN7</a> ('82-'83)
+</td></tr>
+<tr>
+<td>SOHC 8V Multi-point EFI
+</td>
+<td>Gasoline
+</td>
+<td>84-88
+</td>
+<td>62-65
+</td>
+<td>5
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a> ('83), <a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort GT</a> ('83-'85), <a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort LX</a> ('84-'85), <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx RS &amp; LTS</a> ('83-'84), <a href="https://en.wikipedia.org/wiki/Ford_EXP#First_generation_(1982–1985)" class="extiw" title="w:Ford EXP">Ford EXP</a>, <a href="https://en.wikipedia.org/wiki/Mercury_LN7" class="extiw" title="w:Mercury LN7">Mercury LN7</a> ('83)
+</td></tr>
+<tr>
+<td>SOHC 8V Multi-point EFI Turbo
+</td>
+<td>Gasoline
+</td>
+<td>120
+</td>
+<td>88
+</td>
+<td>8
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort Turbo GT</a> ('84-'85), <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx Turbo RS</a> ('84),<br> <a href="https://en.wikipedia.org/wiki/Ford_EXP#First_generation_(1982–1985)" class="extiw" title="w:Ford EXP">Ford EXP Turbo</a> ('84-'85)
+</td></tr>
+<tr>
+<td rowspan="4">1.9L
+</td>
+<td>SOHC 8V 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>86
+</td>
+<td>63
+</td>
+<td>9
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx</a> ('85 1/2-'86), <a href="https://en.wikipedia.org/wiki/Ford_EXP#Second_generation_(1985–1988)" class="extiw" title="w:Ford EXP">Ford Escort EXP Luxury Coupe</a> ('86)
+</td></tr>
+<tr>
+<td>SOHC 8V CFI
+</td>
+<td>Gasoline
+</td>
+<td>90
+</td>
+<td>66
+</td>
+<td>9
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a> ('87-'90), <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx</a> ('87), <a href="https://en.wikipedia.org/wiki/Ford_EXP#Second_generation_(1985–1988)" class="extiw" title="w:Ford EXP">Ford Escort EXP Luxury Coupe</a> ('87-'88)
+</td></tr>
+<tr>
+<td>SOHC 8V <br> Multi-port EFI H.O.
+</td>
+<td>Gasoline
+</td>
+<td>108-110
+</td>
+<td>79-81
+</td>
+<td>J
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort GT</a> ('86-'90),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx XR3</a> ('86-'87),<br> <a href="https://en.wikipedia.org/wiki/Ford_EXP#Second_generation_(1985–1988)" class="extiw" title="w:Ford EXP">Ford Escort EXP Sport Coupe</a> ('86-'87)
+</td></tr>
+<tr>
+<td>SOHC 8V SEFI
+</td>
+<td>Gasoline
+</td>
+<td>88
+</td>
+<td>65
+</td>
+<td>J
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#Second_generation_(1991–1996)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Tracer#Second_generation_(1991–1996)" class="extiw" title="w:Mercury Tracer">Mercury Tracer</a>  ('91-'96)
+</td></tr>
+<tr>
+<td>2.0L
+</td>
+<td>SOHC 8V SPI SEFI
+</td>
+<td>Gasoline
+</td>
+<td>110
+</td>
+<td>81
+</td>
+<td>P
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#Third_generation_(1997–2003)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a> ('97-'02), <a href="https://en.wikipedia.org/wiki/Mercury_Tracer#Third_generation_(1997–1999)" class="extiw" title="w:Mercury Tracer">Mercury Tracer</a> ('97-'99), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Ford Focus</a> ('00-'04)
+</td></tr>
+<tr>
+<td rowspan="7"><a href="https://en.wikipedia.org/wiki/Ford_HSC_engine" class="extiw" title="w:Ford HSC engine">HSC</a>
+</td>
+<td rowspan="4">2.3L HSC
+</td>
+<td>OHV 1-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>90
+</td>
+<td>66
+</td>
+<td>R
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> US: ('84), Canada: ('84-'87)
+</td></tr>
+<tr>
+<td>OHV CFI
+</td>
+<td>Gasoline
+</td>
+<td>86
+</td>
+<td>63
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> US: ('85-'87)
+</td></tr>
+<tr>
+<td>OHV Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>98
+</td>
+<td>72
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> ('88-'91)
+</td></tr>
+<tr>
+<td>OHV Sequential Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>96
+</td>
+<td>71
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> ('92-'94)
+</td></tr>
+<tr>
+<td rowspan="2">2.3L HSO
+</td>
+<td>OHV CFI
+</td>
+<td>Gasoline
+</td>
+<td>100
+</td>
+<td>74
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> ('85-'87)
+</td></tr>
+<tr>
+<td>OHV Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>100
+</td>
+<td>74
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> ('88-'91)
+</td></tr>
+<tr>
+<td rowspan="1">2.5L HSC
+</td>
+<td>OHV <br> CFI ('86-'90), SEFI ('91)
+</td>
+<td>Gasoline
+</td>
+<td>90-105
+</td>
+<td>66-77
+</td>
+<td>D
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_(first_generation)" class="extiw" title="w:Ford Taurus (first generation)">Ford Taurus</a> ('86-'91),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Sable#First_generation_(1986–1991)" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('86)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_diesel_engines#RF" class="extiw" title="w:Mazda diesel engines">Mazda <br> RF</a>
+</td>
+<td>2.0 L
+</td>
+<td>SOHC 8V <br> Indirect injection
+</td>
+<td>Diesel
+</td>
+<td>52
+</td>
+<td>38
+</td>
+<td>H
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#First_generation_(1981–1990)" class="extiw" title="w:Ford Escort (North America)">Ford Escort</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Lynx" class="extiw" title="w:Mercury Lynx">Mercury Lynx</a><br> ('84-'87),<br> <a href="https://en.wikipedia.org/wiki/Ford_Tempo" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a><br> ('84-'86)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#B3" class="extiw" title="w:Mazda B engine">Mazda <br> B3</a>
+</td>
+<td>1.3 L
+</td>
+<td>SOHC 8V <br> 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>58
+</td>
+<td>43
+</td>
+<td>K
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Festiva#North_America" class="extiw" title="w:Ford Festiva">Ford Festiva</a> w/manual trans. <br>('88-'89)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#B3" class="extiw" title="w:Mazda B engine">Mazda <br> B3</a>
+</td>
+<td>1.3 L
+</td>
+<td>SOHC 8V <br> Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>63
+</td>
+<td>46
+</td>
+<td>H
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Festiva#North_America" class="extiw" title="w:Ford Festiva">Ford Festiva</a> ('89 w/auto. trans.), ('90-'93), <a href="https://en.wikipedia.org/wiki/Ford_Festiva#Ford_Aspire" class="extiw" title="w:Ford Festiva">Ford Aspire</a> ('94-'97)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#B6" class="extiw" title="w:Mazda B engine">Mazda <br> B6</a>
+</td>
+<td>1.6 L
+</td>
+<td>SOHC 8V <br> Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>82
+</td>
+<td>60
+</td>
+<td>5
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Mercury_Tracer#First_generation_(1987–1989)" class="extiw" title="w:Mercury Tracer"> Mercury Tracer</a> ('88-'89)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#B6D" class="extiw" title="w:Mazda B engine">Mazda <br> B6D</a>
+</td>
+<td>1.6 L
+</td>
+<td>DOHC 16V Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>100
+</td>
+<td>74
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Mercury_Capri#Third_generation_(1991–1994)" class="extiw" title="w:Mercury Capri"> Mercury Capri</a> ('91-'94)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#B6T" class="extiw" title="w:Mazda B engine">Mazda <br> B6T</a>
+</td>
+<td>1.6 L
+</td>
+<td>DOHC 16V Multi-port EFI Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>132
+</td>
+<td>97
+</td>
+<td>6
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Mercury_Capri#Third_generation_(1991–1994)" class="extiw" title="w:Mercury Capri"> Mercury Capri XR2</a> ('91-'94)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_B_engine#BP" class="extiw" title="w:Mazda B engine">Mazda <br> BP-ZE</a>
+</td>
+<td>1.8 L
+</td>
+<td>DOHC 16V Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>127
+</td>
+<td>95
+</td>
+<td>8
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#Second_generation_(1991–1996)" class="extiw" title="w:Ford Escort (North America)">Ford Escort GT</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Tracer#Second_generation_(1991–1996)" class="extiw" title="w:Mercury Tracer"> Mercury Tracer LTS</a> ('91-'96), <a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#Second_generation_(1991–1996)" class="extiw" title="w:Ford Escort (North America)">Ford Escort LX-E</a> ('92-'93)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_F_engine#F2" class="extiw" title="w:Mazda F engine">Mazda <br> F2</a>
+</td>
+<td>2.2 L
+</td>
+<td>SOHC 12V Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>110
+</td>
+<td>81
+</td>
+<td>C
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Probe#First_generation_(1988–1992)" class="extiw" title="w:Ford Probe">Ford Probe</a> GL ('89-'92), LX ('89)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_F_engine#F2T" class="extiw" title="w:Mazda F engine">Mazda <br> F2T</a>
+</td>
+<td>2.2 L
+</td>
+<td>SOHC 12V Multi-port EFI Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>145
+</td>
+<td>107
+</td>
+<td>L
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Probe#First_generation_(1988–1992)" class="extiw" title="w:Ford Probe">Ford Probe GT</a> ('89-'92)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_F_engine#FS" class="extiw" title="w:Mazda F engine">Mazda <br> FS</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>115-118
+</td>
+<td>85-87
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Probe#Second_generation_(1993–1997)" class="extiw" title="w:Ford Probe">Ford Probe</a> ('93-'97)
+</td></tr>
+<tr>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/Ford_Zeta_engine" class="extiw" title="w:Ford Zeta engine">Zeta</a>
+</td>
+<td rowspan="3">2.0L
+</td>
+<td>DOHC 16V <br> Exhaust VCT (except Focus &amp; '95-'97 Contour/Mystique)
+</td>
+<td>Gasoline
+</td>
+<td>125-130-143
+</td>
+<td>92-96-105
+</td>
+<td>3
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Escort_(North_America)#ZX2" class="extiw" title="w:Ford Escort (North America)">Ford Escort ZX2</a> ('98-'03), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Focus</a> ('00-'04), <a href="https://en.wikipedia.org/wiki/Ford_Contour" class="extiw" title="w:Ford Contour">Ford Contour</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Mystique" class="extiw" title="w:Mercury Mystique">Mercury Mystique</a> ('95-'00), <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Eighth_generation_(1999–2002)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('99-'02)
+</td></tr>
+<tr>
+<td>DOHC 16V
+</td>
+<td>For conversion to Gasoline/CNG
+</td>
+<td>125
+</td>
+<td>92
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Contour" class="extiw" title="w:Ford Contour">Ford Contour</a> ('96-'00)
+</td></tr>
+<tr>
+<td>DOHC 16V Intake VCT
+</td>
+<td>Gasoline
+</td>
+<td>170
+</td>
+<td>125
+</td>
+<td>5
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)#SVT_models" class="extiw" title="w:Ford Focus (first generation)">Ford Focus SVT</a> ('02-'04)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.0_L_(LF-DE,_LF-VE,_LF-VD)" class="extiw" title="w:Mazda L engine">Duratec 20E</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V PZEV
+</td>
+<td>Gasoline
+</td>
+<td>130-132-136
+</td>
+<td>96-97-100
+</td>
+<td>N
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Ford Focus</a> ('05-'07), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(second_generation,_North_America)" class="extiw" title="w:Ford Focus (second generation, North America)">Focus</a> ('08-'11). Required in CA emissions states, opt. in bordering states
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.0_L_(LF-DE,_LF-VE,_LF-VD)" class="extiw" title="w:Mazda L engine">Duratec 20</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V
+</td>
+<td>Gasoline
+</td>
+<td>136-140-143
+</td>
+<td>100-103-105
+</td>
+<td>N
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Ford Focus</a> ('05-'07), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(second_generation,_North_America)" class="extiw" title="w:Ford Focus (second generation, North America)">Focus</a> ('08-'11)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.0_L_(LF-DE,_LF-VE,_LF-VD)" class="extiw" title="w:Mazda L engine">Duratec 20</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a>
+</td>
+<td>Gasoline
+</td>
+<td>160
+</td>
+<td>118
+</td>
+<td>2
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)" class="extiw" title="w:Ford Focus (third generation)">Ford Focus</a> ('12-'18)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.0_L_(LF-DE,_LF-VE,_LF-VD)" class="extiw" title="w:Mazda L engine">Duratec 20</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V <br> Intake VCT <br> Atkinson Cycle
+</td>
+<td>Gasoline-Electric Hybrid
+</td>
+<td>141 (gas) + 118 (electric) = 188 (combined)
+</td>
+<td>104 (gas) + <br> 88 (electric) = 138 (combined)
+</td>
+<td>U
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_C-Max" class="extiw" title="w:Ford C-Max">Ford C-Max Hybrid</a> ('13-'18), <a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion Hybrid</a> ('13-'20), <a href="https://en.wikipedia.org/wiki/Ford_Police_Interceptor#Ford_Police_Responder_Hybrid_Sedan" class="extiw" title="w:Ford Police Interceptor">Ford Police Responder Hybrid</a> ('19-'20)<br>  <a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#Second_generation_(2013–2020)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ Hybrid</a> ('13-'20)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.0_L_(LF-DE,_LF-VE,_LF-VD)" class="extiw" title="w:Mazda L engine">Duratec 20</a>
+</td>
+<td>2.0 L
+</td>
+<td>DOHC 16V <br> Intake VCT <br> Atkinson Cycle
+</td>
+<td>Gasoline-Electric <a href="https://en.wikipedia.org/wiki/Plug-in_hybrid" class="extiw" title="w:Plug-in hybrid">PHEV</a>
+</td>
+<td>141 (gas) + 118 (electric) = 188 (combined)
+</td>
+<td>104 (gas) + <br> 88 (electric) = 138 (combined)
+</td>
+<td>U
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_C-Max" class="extiw" title="w:Ford C-Max">Ford C-Max Energi</a> ('13-'17), <a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion Energi</a> ('13-'20), <a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Special Service Plug-In Hybrid Sedan</a> ('19-'20)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.3L_(L3-VE,_L3-NS,_L3-DE)" class="extiw" title="w:Mazda L engine">Duratec 23E</a>
+</td>
+<td>2.3 L
+</td>
+<td>DOHC 16V PZEV
+</td>
+<td>Gasoline
+</td>
+<td>144
+</td>
+<td>106
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Ford Focus</a> PZEV ('03-'04). Required in CA emissions states. Offered in all states in '04.
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.3L_(L3-VE,_L3-NS,_L3-DE)" class="extiw" title="w:Mazda L engine">Duratec 23</a>
+</td>
+<td>2.3 L
+</td>
+<td>DOHC 16V
+</td>
+<td>Gasoline
+</td>
+<td>151-160
+</td>
+<td>111-118
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Focus_(first_generation)" class="extiw" title="w:Ford Focus (first generation)">Ford Focus ZX4 ST</a> ('05-'07),<br> <a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Milan" class="extiw" title="w:Mercury Milan">Mercury Milan</a> ('06-'09)
+</td></tr>
+<tr>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/Mazda_L_engine#2.5_L_(L5-VE)" class="extiw" title="w:Mazda L engine">Duratec 25</a>
+</td>
+<td rowspan="3">2.5L
+</td>
+<td>DOHC 16V
+</td>
+<td>Gasoline
+</td>
+<td>175
+</td>
+<td>129
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#2010_refresh" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a> ('10-'12),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Milan" class="extiw" title="w:Mercury Milan">Mercury Milan</a> ('10-'11)
+</td></tr>
+<tr>
+<td>DOHC 16V <br> Intake VCT <br> Atkinson Cycle
+</td>
+<td>Gasoline-Electric Hybrid
+</td>
+<td>156 (gas) + 106 (electric) = 191 (combined)
+</td>
+<td>115 (gas) + <br> 78 (electric) = 141 (combined)
+</td>
+<td>3
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#2010_refresh" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion Hybrid</a> ('10-'12),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Milan" class="extiw" title="w:Mercury Milan">Mercury Milan Hybrid</a> ('10-'11), <a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#First_generation_(2006–2012)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ Hybrid</a> ('11-'12)
+</td></tr>
+<tr>
+<td>DOHC 16V
+</td>
+<td>Gasoline
+</td>
+<td>175
+</td>
+<td>129
+</td>
+<td>7
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a> ('13-'20)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#2.0_L" class="extiw" title="w:Ford EcoBoost engine">2.0 L EcoBoost</a>
+</td>
+<td>2.0L
+</td>
+<td>DOHC 16V <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo
+</td>
+<td>Gasoline
+</td>
+<td>240-245-252
+</td>
+<td>177-180-185
+</td>
+<td>9
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#Second_generation_(2013–2020)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ</a> ('13-'20),<br> <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus</a> ('13-'17), <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)#Police_Interceptor_Sedan" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus Special Service Police Sedan</a> ('14-'18), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)#Focus_ST" class="extiw" title="w:Ford Focus (third generation)">Ford Focus ST</a> ('13-'18).<br> Mfg. in Valencia, Spain &amp; later in Cleveland, OH
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#2.3_L" class="extiw" title="w:Ford EcoBoost engine">2.3 L EcoBoost</a>
+</td>
+<td>2.3L
+</td>
+<td>DOHC 16V <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo
+</td>
+<td>Gasoline
+</td>
+<td>310-315-330-350
+</td>
+<td>228-232-243-257
+</td>
+<td>H
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang EcoBoost</a> 6th gen. ('15-'23), <br> <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(seventh_generation)" class="extiw" title="w:Ford Mustang (seventh generation)">Ford Mustang EcoBoost</a> 7th gen. ('24-), <a href="https://en.wikipedia.org/wiki/Ford_Focus_(third_generation)#Focus_RS" class="extiw" title="w:Ford Focus (third generation)">Focus RS</a> ('16-'18). Mfg. in Valencia, Spain &amp; later in Cleveland, OH
+</td></tr>
+<tr>
+<td rowspan="4"><a href="https://en.wikipedia.org/wiki/Ford_Sigma_engine#Duratec_Ti-VCT" class="extiw" title="w:Ford Sigma engine">Sigma</a>
+</td>
+<td rowspan="1">1.5 L
+</td>
+<td>DOHC 16V <br> Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#1.5_L" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>181
+</td>
+<td>133
+</td>
+<td>D
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a> ('14-'20).
+</td></tr>
+<tr>
+<td rowspan="3">1.6 L
+</td>
+<td>DOHC 16V <br> Ti-VCT
+</td>
+<td>Gasoline
+</td>
+<td>120
+</td>
+<td>88
+</td>
+<td>J
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fiesta_(sixth_generation)" class="extiw" title="w:Ford Fiesta (sixth generation)">Ford Fiesta</a> ('11-'19)
+</td></tr>
+<tr>
+<td>DOHC 16V <br> Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#1.6_L" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>178-182
+</td>
+<td>131-134
+</td>
+<td>R
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a> ('13-'14). <br> Mfg. in Bridgend, Wales, UK
+</td></tr>
+<tr>
+<td>DOHC 16V <br> Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> Turbo (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#1.6_L" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>197
+</td>
+<td>145
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fiesta_(sixth_generation)" class="extiw" title="w:Ford Fiesta (sixth generation)">Ford Fiesta ST</a> ('14-'19). <br> Mfg. in Bridgend, Wales, UK
+</td></tr>
+<tr>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/I6_engine" class="extiw" title="w:I6 engine">I6</a>
+</td>
+<td rowspan="2"><a href="https://en.wikipedia.org/wiki/Ford_straight-six_engine#200" class="extiw" title="w:Ford straight-six engine">Thriftpower</a>
+</td>
+<td rowspan="2">3.3L
+</td>
+<td>OHV 1-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>87-88-94
+</td>
+<td>64-65-69
+</td>
+<td>B
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(eighth_generation)" class="extiw" title="w:Ford Thunderbird (eighth generation)">Ford Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a>, <a href="https://en.wikipedia.org/wiki/Ford_Granada_(North_America)#Second_generation_(1981–1982)" class="extiw" title="w:Ford Granada (North America)">Ford Granada</a>, <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> ('81-'82) <a href="https://en.wikipedia.org/wiki/Ford_Fairmont" class="extiw" title="w:Ford Fairmont">Ford Fairmont</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Zephyr" class="extiw" title="w:Mercury Zephyr">Mercury Zephyr</a> ('81-'82)
+</td></tr>
+<tr>
+<td>OHV 1-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>92
+</td>
+<td>68
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fairmont" class="extiw" title="w:Ford Fairmont">Ford Fairmont</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Zephyr" class="extiw" title="w:Mercury Zephyr">Mercury Zephyr</a>,<br> <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Fourth_generation_(1983–1986)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('83)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/BMW_M21" class="extiw" title="w:BMW M21">BMW M21</a>
+</td>
+<td>2.4L
+</td>
+<td>Indirect injection <br> SOHC 12V Turbo
+</td>
+<td>Diesel
+</td>
+<td>115
+</td>
+<td>85
+</td>
+<td>L
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Seventh_generation_(1982–1987)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VII" class="extiw" title="w:Lincoln Continental Mark VII"> Continental Mark VII</a>  ('84-'85)
+</td></tr>
+<tr>
+<td rowspan="29"><a href="https://en.wikipedia.org/wiki/V6_engine" class="extiw" title="w:V6 engine">V6</a>
+</td>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/Ford_Vulcan_V6_engine" class="extiw" title="w:Ford Vulcan V6 engine">Vulcan</a>
+</td>
+<td rowspan="3">3.0L
+</td>
+<td>OHV<br> Multi-port EFI ('86-'90) SEFI ('91-'07)
+</td>
+<td>Gasoline
+</td>
+<td>130-140-145-155
+</td>
+<td>96-103-107-114
+</td>
+<td>U
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus" class="extiw" title="w:Ford Taurus">Ford Taurus</a> ('86-'07),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Sable" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('86-'05),<br> <a href="https://en.wikipedia.org/wiki/Ford_Probe#First_generation_(1988–1992)" class="extiw" title="w:Ford Probe">Ford Probe LX</a> ('90-'92),<br> <a href="https://en.wikipedia.org/wiki/Ford_Tempo#Second_generation_(1988–1994)" class="extiw" title="w:Ford Tempo">Ford Tempo</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Topaz#Second_generation_(1988–1994)" class="extiw" title="w:Mercury Topaz">Mercury Topaz</a> <br> ('92-'94)
+</td></tr>
+<tr>
+<td>OHV EFI FFV
+</td>
+<td>Gasoline/M85
+</td>
+<td>130-140-145-155
+</td>
+<td>96-103-107-114
+</td>
+<td>1
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus" class="extiw" title="w:Ford Taurus">Ford Taurus</a> ('93-'98)
+</td></tr>
+<tr>
+<td>OHV EFI FFV
+</td>
+<td>Gasoline/E85
+</td>
+<td>145-150-152-155
+</td>
+<td>107-110-112-114
+</td>
+<td>2
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus" class="extiw" title="w:Ford Taurus">Ford Taurus</a> ('96-'06),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Sable" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('99-'05)
+</td></tr>
+<tr>
+<td rowspan="2"><a href="https://en.wikipedia.org/wiki/Ford_SHO_V6_engine" class="extiw" title="w:Ford SHO V6 engine">SHO V6</a>
+</td>
+<td>3.0L
+</td>
+<td>DOHC 24V SEFI
+</td>
+<td>Gasoline
+</td>
+<td>220
+</td>
+<td>162
+</td>
+<td>Y
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_SHO" class="extiw" title="w:Ford Taurus SHO">Taurus SHO</a> w/manual trans. ('89-'95)
+</td></tr>
+<tr>
+<td>3.2L
+</td>
+<td>DOHC 24V SEFI
+</td>
+<td>Gasoline
+</td>
+<td>220
+</td>
+<td>162
+</td>
+<td>P
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_SHO#Second_generation_(1992–1995)" class="extiw" title="w:Ford Taurus SHO">Taurus SHO</a> w/auto. trans. ('93-'95)
+</td></tr>
+<tr>
+<td rowspan="5"><a href="https://en.wikipedia.org/wiki/Ford_Essex_V6_engine_(Canadian)" class="extiw" title="w:Ford Essex V6 engine (Canadian)">Essex</a>
+</td>
+<td rowspan="4">3.8L
+</td>
+<td>OHV 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>112
+</td>
+<td>82
+</td>
+<td>3
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Granada_(North_America)#Second_generation_(1981–1982)" class="extiw" title="w:Ford Granada (North America)">Ford Granada</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Seventh_generation_(1982–1987)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('82), <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird" class="extiw" title="w:Ford Thunderbird">Ford Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('82-'83), <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a>, <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Fourth_generation_(1983–1986)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('83)
+</td></tr>
+<tr>
+<td>OHV CFI
+</td>
+<td>Gasoline
+</td>
+<td>120
+</td>
+<td>88
+</td>
+<td>3
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a>, <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Fourth_generation_(1983–1986)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('84-'86), <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Sixth_generation_(1983–1988)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('84-'87)
+</td></tr>
+<tr>
+<td>OHV Multi-port EFI <br>(SPI on '99-'04 Mustang)
+</td>
+<td>Gasoline
+</td>
+<td>140-145-150-155-160-190-193
+</td>
+<td>103-107-110-114-118-140-142
+</td>
+<td>4
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Ford Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Sixth_generation_(1983–1988)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('88),<br> <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(tenth_generation)" class="extiw" title="w:Ford Thunderbird (tenth generation)">Ford Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Seventh_generation_(1989–1997)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('89-'97),<br> <a href="https://en.wikipedia.org/wiki/Ford_Taurus" class="extiw" title="w:Ford Taurus">Taurus</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Sable" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('88-'95), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Eighth_generation_(1988–1994)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('88-'94),<br> <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Ford Mustang</a> ('94-'04)
+</td></tr>
+<tr>
+<td>OHV SEFI <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>210-230
+</td>
+<td>155-169
+</td>
+<td>R
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(tenth_generation)" class="extiw" title="w:Ford Thunderbird (tenth generation)">Ford Thunderbird SC</a> ('89-'95),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Seventh_generation_(1989–1997)" class="extiw" title="w:Mercury Cougar">Mercury Cougar XR7</a> ('89-'90)
+</td></tr>
+<tr>
+<td>3.9L
+</td>
+<td>OHV SEFI SPI
+</td>
+<td>Gasoline
+</td>
+<td>193
+</td>
+<td>142
+</td>
+<td>6
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Ford Mustang</a> (Late '04)
+</td></tr>
+<tr>
+<td rowspan="2"><a href="https://en.wikipedia.org/wiki/Ford_Cologne_V6_engine" class="extiw" title="w:Ford Cologne V6 engine">Cologne</a>
+</td>
+<td>2.9L
+</td>
+<td>OHV Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>144
+</td>
+<td>106
+</td>
+<td>V
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Merkur_Scorpio" class="extiw" title="w:Merkur Scorpio">Merkur Scorpio</a> ('88-'89)
+</td></tr>
+<tr>
+<td>4.0L
+</td>
+<td>SOHC 12V
+</td>
+<td>Gasoline
+</td>
+<td>210
+</td>
+<td>157
+</td>
+<td>N
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Ford Mustang</a> ('05-'10)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Mazda_K_engine#KL" class="extiw" title="w:Mazda K engine">Mazda <br> KL-DE</a>
+</td>
+<td>2.5 L
+</td>
+<td>DOHC 24V Multi-port EFI
+</td>
+<td>Gasoline
+</td>
+<td>164
+</td>
+<td>121
+</td>
+<td>B
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Probe#Second_generation_(1993–1997)" class="extiw" title="w:Ford Probe">Ford Probe GT</a> ('93-'97)
+</td></tr>
+<tr>
+<td rowspan="2"><a href="https://en.wikipedia.org/wiki/Ford_Duratec_V6_engine#2.5_L" class="extiw" title="w:Ford Duratec V6 engine">Duratec 25</a>
+</td>
+<td rowspan="2">2.5L
+</td>
+<td>DOHC 24V
+</td>
+<td>Gasoline
+</td>
+<td>170
+</td>
+<td>125
+</td>
+<td>L
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Contour" class="extiw" title="w:Ford Contour">Ford Contour</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Mystique" class="extiw" title="w:Mercury Mystique">Mercury Mystique</a> ('95-'00), <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Eighth_generation_(1999–2002)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('99-'02)
+</td></tr>
+<tr>
+<td>DOHC 24V SVT
+</td>
+<td>Gasoline
+</td>
+<td>195-200
+</td>
+<td>143-147
+</td>
+<td>G
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Contour#Ford_SVT_Contour" class="extiw" title="w:Ford Contour">Ford Contour SVT</a> ('98-'00)
+</td></tr>
+<tr>
+<td rowspan="3"><a href="https://en.wikipedia.org/wiki/Ford_Duratec_V6_engine#3.0_L" class="extiw" title="w:Ford Duratec V6 engine">Duratec 30</a>
+</td>
+<td rowspan="3">3.0L
+</td>
+<td>DOHC 24V <br> (Intake Continuously VCT on '03-'05 LS)
+</td>
+<td>Gasoline
+</td>
+<td>200-210-220-232
+</td>
+<td>147-155-162-171
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus" class="extiw" title="w:Ford Taurus">Ford Taurus</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Sable" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('96-'05), <a href="https://en.wikipedia.org/wiki/Lincoln_LS" class="extiw" title="w:Lincoln LS">Lincoln LS</a> ('00-'05)
+</td></tr>
+<tr>
+<td>DOHC 24V <br> (VVT on Fusion/Milan/Zephyr)
+</td>
+<td>Gasoline
+</td>
+<td>203-221
+</td>
+<td>149-163
+</td>
+<td>1
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Five_Hundred" class="extiw" title="w:Ford Five Hundred">Ford Five Hundred</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Montego#Third_generation_(2005–2007)" class="extiw" title="w:Mercury Montego">Mercury Montego</a> ('05-'07), <a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Milan" class="extiw" title="w:Mercury Milan">Mercury Milan</a> ('06-'09), <a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#First_generation_(2006–2012)" class="extiw" title="w:Lincoln MKZ">Lincoln Zephyr</a> ('06)
+</td></tr>
+<tr>
+<td>DOHC 24V <br> Intake VCT
+</td>
+<td>Gasoline/E85
+</td>
+<td>240
+</td>
+<td>177
+</td>
+<td>G
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion</a> ('10-'12),<br> <a href="https://en.wikipedia.org/wiki/Mercury_Milan" class="extiw" title="w:Mercury Milan">Mercury Milan</a> ('10-'11)
+</td></tr>
+<tr>
+<td rowspan="9"><a href="https://en.wikipedia.org/wiki/Ford_Cyclone_engine" class="extiw" title="w:Ford Cyclone engine">Cyclone</a>
+</td>
+<td>3.5L
+</td>
+<td>Sequential MPFI <br> DOHC 24V <br> Intake VCT
+</td>
+<td>Gasoline
+</td>
+<td>263
+</td>
+<td>193
+</td>
+<td>T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#First_generation_(2006–2012)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ</a> ('07-'09)
+</td></tr>
+<tr>
+<td>3.5L
+</td>
+<td>Sequential MPFI <br> DOHC 24V <br> Intake VCT
+</td>
+<td>Gasoline
+</td>
+<td>263
+</td>
+<td>193
+</td>
+<td>W
+</td>
+<td>Gen 5: <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(fifth_generation)" class="extiw" title="w:Ford Taurus (fifth generation)">Ford Taurus</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Sable#Fifth_generation_(2008–2009)" class="extiw" title="w:Mercury Sable">Mercury Sable</a> ('08-'09), Gen 6: <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus</a> ('10-'12)
+</td></tr>
+<tr>
+<td>3.5L
+</td>
+<td>Sequential MPFI <br> DOHC 24V <br> Intake VCT
+</td>
+<td>Gasoline
+</td>
+<td>263
+</td>
+<td>193
+</td>
+<td>C
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#First_generation_(2006)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion Sport</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#First_generation_(2006–2012)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ</a> ('10-'12)
+</td></tr>
+<tr>
+<td>3.5L
+</td>
+<td>Sequential MPFI <br> DOHC 24V <br> Ti-VCT
+</td>
+<td>Gasoline
+</td>
+<td>288
+</td>
+<td>212
+</td>
+<td>8
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus</a>,<br> <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)#Police_Interceptor_Sedan" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus Police Interceptor Sedan</a> ('13-'19)
+</td></tr>
+<tr>
+<td>3.5L
+</td>
+<td>DOHC 24V <br> Intake VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> <br> Twin-Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a> (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#3.5_L" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>355-365
+</td>
+<td>261-269
+</td>
+<td>T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus SHO</a> ('10-'19),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_MKS" class="extiw" title="w:Lincoln MKS">Lincoln MKS</a> ('10-'16),<br> <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)#Police_Interceptor_Sedan" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus Police Interceptor Sedan</a> ('13-'19)
+</td></tr>
+<tr>
+<td>3.5L
+</td>
+<td>DOHC 24V <br> Ti-VCT Port/Direct injection <br> Twin-Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a> (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#3.5_L_(D35;_second_generation)" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>647-660
+</td>
+<td>476-485
+</td>
+<td>W
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_GT#Second_generation_(2016–2022)" class="extiw" title="w:Ford GT">Ford GT</a> ('17-'22)
+</td></tr>
+<tr>
+<td>3.7L
+</td>
+<td>Sequential MPFI <br> DOHC 24V <br> Intake VCT
+</td>
+<td>Gasoline
+</td>
+<td>273-274
+</td>
+<td>201-202
+</td>
+<td>R
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_MKS" class="extiw" title="w:Lincoln MKS">Lincoln MKS</a> ('09-'12)
+</td></tr>
+<tr>
+<td>3.7L
+</td>
+<td>DOHC 24V <br> Ti-VCT
+</td>
+<td>Gasoline
+</td>
+<td>300-304-305
+</td>
+<td>221-224-224
+</td>
+<td>K
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#Second_generation_(2013–2020)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_MKS" class="extiw" title="w:Lincoln MKS">Lincoln MKS</a> ('13-'16), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Tenth_generation_(2017–2020)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('17-'20), <a href="https://en.wikipedia.org/wiki/Ford_Taurus_(sixth_generation)#Police_Interceptor_Sedan" class="extiw" title="w:Ford Taurus (sixth generation)">Ford Taurus Police Interceptor Sedan</a> ('13-'19)
+</td></tr>
+<tr>
+<td>3.7L
+</td>
+<td>DOHC 24V <br> Ti-VCT
+</td>
+<td>Gasoline
+</td>
+<td>300-305
+</td>
+<td>221-224
+</td>
+<td>M
+</td>
+<td>Gen 5: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Ford Mustang</a> ('11-'14),<br> Gen 6: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang</a> ('15-'17)
+</td></tr>
+<tr>
+<td rowspan="2"><a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#2.7_L_Nano_(first_generation)" class="extiw" title="w:Ford EcoBoost engine">Nano</a>
+</td>
+<td>2.7 L
+</td>
+<td>DOHC 24V <br> Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> <br> Twin-Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a> (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#2.7_L_Nano_(first_generation)" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>325-335
+</td>
+<td>239-246
+</td>
+<td>P
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)#Second_generation_(2013)" class="extiw" title="w:Ford Fusion (Americas)">Ford Fusion Sport</a> ('17-'19),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Tenth_generation_(2017–2020)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('17-'20)
+</td></tr>
+<tr>
+<td>3.0 L
+</td>
+<td>DOHC 24V <br> Ti-VCT <a href="https://en.wikipedia.org/wiki/Gasoline_direct_injection" class="extiw" title="w:Gasoline direct injection">DI</a> <br> Twin-Turbo <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a> (<a href="https://en.wikipedia.org/wiki/Ford_EcoBoost_engine#3.0_L_Nano" class="extiw" title="w:Ford EcoBoost engine">EcoBoost</a>)
+</td>
+<td>Gasoline
+</td>
+<td>350-400
+</td>
+<td>257-294
+</td>
+<td>C
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_MKZ#Second_generation_(2013–2020)" class="extiw" title="w:Lincoln MKZ">Lincoln MKZ</a>, <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Tenth_generation_(2017–2020)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('17-'20)
+</td></tr>
+<tr>
+<td rowspan="38">V8
+</td>
+<td rowspan="15"><a href="https://en.wikipedia.org/wiki/Ford_Windsor_engine" class="extiw" title="w:Ford Windsor engine">Windsor</a>
+</td>
+<td>4.2L
+</td>
+<td>OHV 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>115-120
+</td>
+<td>85-88
+</td>
+<td>D
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a>, <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(eighth_generation)" class="extiw" title="w:Ford Thunderbird (eighth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Fifth_generation_(1980–1982)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a>, <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Third" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Third_generation_(1979–1982)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('81-'82), <a href="https://en.wikipedia.org/wiki/Ford_Fairmont" class="extiw" title="w:Ford Fairmont">Ford Fairmont</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Zephyr" class="extiw" title="w:Mercury Zephyr">Mercury Zephyr</a>, <a href="https://en.wikipedia.org/wiki/Ford_Granada_(North_America)" class="extiw" title="w:Ford Granada (North America)">Ford Granada</a> ('81)
+</td></tr>
+<tr>
+<td rowspan="12">"5.0" (4.9L)
+</td>
+<td>OHV 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>130-131-132
+</td>
+<td>96-96-97
+</td>
+<td>F
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Third_generation_(1979–1982)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Third_generation_(1979–1982)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('81-'82),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Seventh_generation_(1982–1987)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('82)
+</td></tr>
+<tr>
+<td>OHV 2-bbl. H.O.
+</td>
+<td>Gasoline
+</td>
+<td>157
+</td>
+<td>116
+</td>
+<td>F
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> ('82)
+</td></tr>
+<tr>
+<td>OHV 4-bbl. H.O.
+</td>
+<td>Gasoline
+</td>
+<td>175
+</td>
+<td>129
+</td>
+<td>F
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> ('83)
+</td></tr>
+<tr>
+<td>OHV 4-bbl. H.O.
+</td>
+<td>Gasoline
+</td>
+<td>175-210
+</td>
+<td>129-155
+</td>
+<td>M
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a> w/man. trans., <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> w/man. trans. ('84-'85)
+</td></tr>
+<tr>
+<td>OHV CFI
+</td>
+<td>Gasoline
+</td>
+<td>130-134-140-145-155-180
+</td>
+<td>96-99-103-107-114-132
+</td>
+<td>F
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Sixth_generation_(1983–1988)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a>, <a href="https://en.wikipedia.org/wiki/Ford_LTD_Crown_Victoria" class="extiw" title="w:Ford LTD Crown Victoria">LTD Crown Victoria</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Grand_Marquis" class="extiw" title="w:Mercury Grand Marquis">Mercury Grand Marquis</a> ('83-'85), <a href="https://en.wikipedia.org/wiki/Lincoln_Town_Car" class="extiw" title="w:Lincoln Town Car">Lincoln Town Car</a> ('81-'85), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VI" class="extiw" title="w:Lincoln Continental Mark VI">Lincoln Mark VI</a> ('81-'83), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Seventh_generation_(1982–1987)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('83-'87),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VII" class="extiw" title="w:Lincoln Continental Mark VII">Lincoln Mark VII</a> ('84-'85) (180 hp-'85 Mark VII LSC)
+</td></tr>
+<tr>
+<td>OHV CFI H.O.
+</td>
+<td>Gasoline
+</td>
+<td>165-180
+</td>
+<td>121-132
+</td>
+<td>M
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a> w/auto. trans., <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> w/auto. trans., <a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Fourth_generation_(1983–1986)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD LX</a> ('84-'85)
+</td></tr>
+<tr>
+<td>OHV SEFI
+</td>
+<td>Gasoline
+</td>
+<td>150-155-160
+</td>
+<td>110-114-118
+</td>
+<td>F
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(ninth_generation)" class="extiw" title="w:Ford Thunderbird (ninth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Sixth_generation_(1983–1988)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('86-'88), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VII" class="extiw" title="w:Lincoln Continental Mark VII">Lincoln Mark VII</a> ('86-'87), <a href="https://en.wikipedia.org/wiki/Ford_LTD_Crown_Victoria" class="extiw" title="w:Ford LTD Crown Victoria">LTD Crown Victoria</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Grand_Marquis" class="extiw" title="w:Mercury Grand Marquis">Mercury Grand Marquis</a> ('86-'91), <a href="https://en.wikipedia.org/wiki/Lincoln_Town_Car" class="extiw" title="w:Lincoln Town Car">Lincoln Town Car</a> ('86-'90)
+</td></tr>
+<tr>
+<td>OHV SEFI H.O.
+</td>
+<td>Gasoline
+</td>
+<td>200
+</td>
+<td>147
+</td>
+<td>M
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Capri#Second_generation_(1979–1986)" class="extiw" title="w:Mercury Capri">Mercury Capri</a> ('86), <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VII" class="extiw" title="w:Lincoln Continental Mark VII">Lincoln Mark VII LSC</a> ('86-'87)
+</td></tr>
+<tr>
+<td>OHV SEFI H.O.
+</td>
+<td>Gasoline
+</td>
+<td>225 <br>(205-'93)
+</td>
+<td>166 <br>(151-'93)
+</td>
+<td>E
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(third_generation)" class="extiw" title="w:Ford Mustang (third generation)">Ford Mustang GT</a> ('87-'93),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Continental_Mark_VII" class="extiw" title="w:Lincoln Continental Mark VII">Lincoln Mark VII</a> ('88-'92)
+</td></tr>
+<tr>
+<td>OHV SEFI H.O.
+</td>
+<td>Gasoline
+</td>
+<td>200-215
+</td>
+<td>147-160
+</td>
+<td>T
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(tenth_generation)" class="extiw" title="w:Ford Thunderbird (tenth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Seventh_generation_(1989–1997)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('91-'93), <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Mustang GT</a> ('94-'95), <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Mustang GTS</a> ('95)
+</td></tr>
+<tr>
+<td>OHV SEFI Cobra
+</td>
+<td>Gasoline
+</td>
+<td>235
+</td>
+<td>175
+</td>
+<td>D
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Ford Mustang Cobra and Cobra R</a> ('93)
+</td></tr>
+<tr>
+<td>OHV EFI Cobra
+</td>
+<td>Gasoline
+</td>
+<td>240
+</td>
+<td>179
+</td>
+<td>D
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Ford Mustang Cobra</a> ('94-'95)
+</td></tr>
+<tr>
+<td rowspan="2">5.8L
+</td>
+<td>OHV 2-bbl.
+</td>
+<td>Gasoline
+</td>
+<td>145-165-180
+</td>
+<td>107-121-132
+</td>
+<td>G
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_LTD_(Americas)#Third_generation_(1979–1982)" class="extiw" title="w:Ford LTD (Americas)">Ford LTD</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Marquis#Third_generation_(1979–1982)" class="extiw" title="w:Mercury Marquis">Mercury Marquis</a> ('81-'82) police or Canada in '82,<br> <a href="https://en.wikipedia.org/wiki/Ford_LTD_Crown_Victoria" class="extiw" title="w:Ford LTD Crown Victoria">LTD Crown Victoria</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Grand_Marquis" class="extiw" title="w:Mercury Grand Marquis">Mercury Grand Marquis</a> police or Canada ('83-'91)
+</td></tr>
+
+<tr>
+<td>OHV EFI Cobra R
+</td>
+<td>Gasoline
+</td>
+<td>300
+</td>
+<td>223
+</td>
+<td>C
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Ford Mustang Cobra R</a> ('95)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Ford_SHO_V8_engine" class="extiw" title="w:Ford SHO V8 engine">Duratec V8</a>
+</td>
+<td>3.4L
+</td>
+<td>DOHC 32V EFI
+</td>
+<td>Gasoline
+</td>
+<td>235
+</td>
+<td>175
+</td>
+<td>N
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Taurus_(third_generation)#Ford_Taurus_SHO" class="extiw" title="w:Ford Taurus (third generation)">Ford Taurus SHO</a> ('96-'99)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Jaguar_AJ-V8_engine#3.9_L" class="extiw" title="w:Jaguar AJ-V8 engine">AJ-V8</a>
+</td>
+<td>3.9L
+</td>
+<td>DOHC 32V <br> (Intake VVT '03-'06)
+</td>
+<td>Gasoline
+</td>
+<td>252-280
+</td>
+<td>185-209
+</td>
+<td>A
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_LS" class="extiw" title="w:Lincoln LS">Lincoln LS</a> ('00-'06),<br> <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(eleventh_generation)" class="extiw" title="w:Ford Thunderbird (eleventh generation)">Ford Thunderbird</a> ('02-'05)
+</td></tr>
+<tr>
+<td rowspan="8"><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#4.6" class="extiw" title="w:Ford Modular engine">Modular 4.6</a>
+</td>
+<td rowspan="8">4.6L
+</td>
+<td>SOHC 2V
+</td>
+<td>Gasoline
+</td>
+<td>190-200-205-210-215-220-224-235-239-250
+</td>
+<td>140-147-151-155-158-162-165-173-176-184
+</td>
+<td>W
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_Town_Car" class="extiw" title="w:Lincoln Town Car">Lincoln Town Car</a> ('91-'08), Town Car limo &amp; hearse ('09-11), <a href="https://en.wikipedia.org/wiki/Ford_Crown_Victoria" class="extiw" title="w:Ford Crown Victoria">Crown Victoria</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Grand_Marquis" class="extiw" title="w:Mercury Grand Marquis">Mercury Grand Marquis</a> ('92-'08), <a href="https://en.wikipedia.org/wiki/Ford_Thunderbird_(tenth_generation)" class="extiw" title="w:Ford Thunderbird (tenth generation)">Thunderbird</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Cougar#Seventh_generation_(1989–1997)" class="extiw" title="w:Mercury Cougar">Mercury Cougar</a> ('94-'97)
+</td></tr>
+<tr>
+<td>SOHC 2V
+</td>
+<td>CNG
+</td>
+<td>175-220
+</td>
+<td>129-162
+</td>
+<td>9
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Crown_Victoria" class="extiw" title="w:Ford Crown Victoria">Ford Crown Victoria</a> ('96-'04)
+</td></tr>
+<tr>
+<td>SOHC 2V FFV
+</td>
+<td>Gasoline/E85
+</td>
+<td>224-239
+</td>
+<td>165-176
+</td>
+<td>V
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Lincoln_Town_Car" class="extiw" title="w:Lincoln Town Car">Lincoln Town Car</a>, <a href="https://en.wikipedia.org/wiki/Ford_Crown_Victoria" class="extiw" title="w:Ford Crown Victoria">Ford Crown Victoria</a>, <a href="https://en.wikipedia.org/wiki/Mercury_Grand_Marquis" class="extiw" title="w:Mercury Grand Marquis">Mercury Grand Marquis</a> ('06-'11)
+</td></tr>
+<tr>
+<td>SOHC 2V
+</td>
+<td>Gasoline
+</td>
+<td>215-225-260-265
+</td>
+<td>158-166-191-195
+</td>
+<td>X
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Mustang GT</a> ('96-'04),<br> <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fourth_generation)" class="extiw" title="w:Ford Mustang (fourth generation)">Mustang Bullitt</a> ('01)
+</td></tr>
+<tr>
+<td>SOHC 3V
+</td>
+<td>Gasoline
+</td>
+<td>300-315
+</td>
+<td>221-232
+</td>
+<td>H
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Mustang GT</a> ('05-'10),<br> <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Mustang Bullitt</a> ('08-'09)
+</td></tr>
+<tr>
+<td>DOHC 4V
+</td>
+<td>Gasoline
+</td>
+<td>260-275-280-290-302-305-320
+</td>
+<td>191-202-206-213-222-224-235
+</td>
+<td>V
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Ford Mustang Cobra</a> ('96-'99, '01-'02),<br>  <a href="https://en.wikipedia.org/wiki/Mercury_Marauder" class="extiw" title="w:Mercury Marauder">Mercury Marauder</a> ('03-'04),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Mark_VIII" class="extiw" title="w:Lincoln Mark VIII">Lincoln Mark VIII</a> ('93-'98),<br> <a href="https://en.wikipedia.org/wiki/Lincoln_Continental#Ninth_generation_(1995–2002)" class="extiw" title="w:Lincoln Continental">Lincoln Continental</a> ('95-'02)
+</td></tr>
+<tr>
+<td>DOHC 4V Ram Air
+</td>
+<td>Gasoline
+</td>
+<td>305
+</td>
+<td>227
+</td>
+<td>R
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_Mach_1" class="extiw" title="w:Ford Mustang Mach 1">Mustang Mach 1</a> ('03-'04)
+</td></tr>
+<tr>
+<td>DOHC 4V <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>390
+</td>
+<td>291
+</td>
+<td>Y
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Mustang SVT Cobra S/C</a> ('03-'04)
+</td></tr>
+<tr>
+<td rowspan="4"><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#5.4" class="extiw" title="w:Ford Modular engine">Modular 5.4</a>
+</td>
+<td rowspan="4">5.4L
+</td>
+<td>DOHC 4V
+</td>
+<td>Gasoline
+</td>
+<td>385
+</td>
+<td>287
+</td>
+<td>H
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_SVT_Cobra" class="extiw" title="w:Ford Mustang SVT Cobra">Mustang Cobra R</a> ('00)
+</td></tr>
+<tr>
+<td>DOHC 4V <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>500
+</td>
+<td>368
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Shelby_GT500" class="extiw" title="w:Ford Shelby GT500">Shelby GT500</a> ('07-'09)
+</td></tr>
+<tr>
+<td>DOHC 4V <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>540
+</td>
+<td>397
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Shelby_GT500" class="extiw" title="w:Ford Shelby GT500">Shelby GT500</a> ('10)
+</td></tr>
+<tr>
+<td>DOHC 4V <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>550
+</td>
+<td>405
+</td>
+<td>S
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_GT#First_generation_(2005–2006)" class="extiw" title="w:Ford GT">Ford GT</a> ('05-'06), <a href="https://en.wikipedia.org/wiki/Ford_Shelby_GT500" class="extiw" title="w:Ford Shelby GT500">Shelby GT500</a> ('11-'12)
+</td></tr>
+<tr>
+<td rowspan="1"><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#5.8_L_Trinity" class="extiw" title="w:Ford Modular engine">Modular 5.8 Trinity</a>
+</td>
+<td rowspan="1">5.8L
+</td>
+<td>DOHC 4V <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>662
+</td>
+<td>487
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Shelby_GT500" class="extiw" title="w:Ford Shelby GT500">Shelby GT500</a> ('13-'14)
+</td></tr>
+<tr>
+<td rowspan="4"><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#5.0_L_Coyote" class="extiw" title="w:Ford Modular engine">Coyote</a>
+</td>
+<td rowspan="2">5.0 L (4,951 cc)
+</td>
+<td>SEFI DOHC 32V <br> <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a>
+</td>
+<td>Gasoline
+</td>
+<td>412-420-435
+</td>
+<td>303-309-320
+</td>
+<td>F
+</td>
+<td>Gen 5: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)" class="extiw" title="w:Ford Mustang (fifth generation)">Ford Mustang GT</a> ('11-'14), Gen 6: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang GT</a> ('15-'17)
+</td></tr>
+<tr>
+<td>SEFI DOHC 32V <br> <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a> (<a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#Boss_302_(Road_Runner)_variant" class="extiw" title="w:Ford Modular engine">Road Runner</a>)
+</td>
+<td>Gasoline
+</td>
+<td>444
+</td>
+<td>327
+</td>
+<td>U
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(fifth_generation)#Mustang_Boss_302" class="extiw" title="w:Ford Mustang (fifth generation)">Ford Mustang Boss 302</a> ('12-'13)
+</td></tr>
+<tr>
+<td rowspan="2">5.0 L (5,035 cc)
+</td>
+<td>Port/Direct injection DOHC 32V <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a>
+</td>
+<td>Gasoline
+</td>
+<td>450-460-480-486
+</td>
+<td>331-338-353-358
+</td>
+<td>F
+</td>
+<td>Gen 6: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang GT</a> ('18-'23), Gen 7: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(seventh_generation)" class="extiw" title="w:Ford Mustang (seventh generation)">Ford Mustang GT</a> ('24-)
+</td></tr>
+<tr>
+<td>Port/Direct injection DOHC 32V <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a>
+</td>
+<td>Gasoline
+</td>
+<td>470-480-500
+</td>
+<td>346-353-368
+</td>
+<td>0
+</td>
+<td>Gen 6: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)#Bullitt_(2019–2020)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang Bullitt</a> ('19-'20), <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)#Mach_1_(2021–2023)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang Mach 1</a> ('21-'23), Gen 7: <a href="https://en.wikipedia.org/wiki/Ford_Mustang_(seventh_generation)" class="extiw" title="w:Ford Mustang (seventh generation)">Ford Mustang Dark Horse</a> ('24-)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#Voodoo" class="extiw" title="w:Ford Modular engine">Voodoo</a>
+</td>
+<td>5.2 L
+</td>
+<td>SEFI DOHC 32V <br> <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a> Flat-Plane Crank
+</td>
+<td>Gasoline
+</td>
+<td>526
+</td>
+<td>387
+</td>
+<td>Z
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)#Shelby_GT350_(2015–2020)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang Shelby GT350/ GT350R</a> ('15-'20)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Modular_engine#Predator" class="extiw" title="w:Ford Modular engine">Predator</a>
+</td>
+<td>5.2 L
+</td>
+<td>SEFI DOHC 32V <br> <a href="https://en.wikipedia.org/wiki/Variable_valve_timing" class="extiw" title="w:Variable valve timing">Ti-VCT</a> <a href="https://en.wikipedia.org/wiki/Supercharged" class="extiw" title="w:Supercharged">SC</a> <a href="https://en.wikipedia.org/wiki/Intercooler" class="extiw" title="w:Intercooler">IC</a>
+</td>
+<td>Gasoline
+</td>
+<td>760
+</td>
+<td>559
+</td>
+<td>J
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)#Shelby_GT500_(2020–2022)" class="extiw" title="w:Ford Mustang (sixth generation)">Ford Mustang Shelby GT500</a><br> ('20-'22)
+</td></tr></tbody></table>

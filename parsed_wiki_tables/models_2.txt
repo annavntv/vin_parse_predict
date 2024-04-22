@@ -1,0 +1,479 @@
+<table class="wikitable">
+<tbody><tr>
+<th>VIN Code
+</th>
+<th>Model
+</th></tr>
+<tr>
+<td>A90%A92%A95%A98%A99
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LTL9000</a> (Tandem Rear Axle) ('81-'97) %
+Ford LTL9000 w/Sleeper cab Single (Tandem Rear Axle) ('81-'86) %
+Ford LTLA9000 (AeroMax 120 L9000) (Long hood, Set-back Front Axle, Tandem Rear Axle) ('92-'97) %
+Ford LTL9000 w/Sleeper cab Double (Tandem Rear Axle) ('81-'86) %
+Ford LTLS9000 (Long hood, Set-back Front Axle, Tandem Rear Axle) ('92-'97)
+</p>
+</td></tr>
+<tr>
+<td>A92%A96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford A9522</a> (AeroMax 9500 Series, 122 in. BBC) (Long hood, Set-back Front Axle) ('97-'98) %
+Ford AT9522 (AeroMax 9500 Series, 122 in. BBC) (Long hood, Set-back Front Axle, Tandem Rear Axle) ('97-'98)
+</p>
+</td></tr>
+<tr>
+<td>B60%B70%B80
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_B_series#Sixth_generation_(1980–1998)" class="extiw" title="w:Ford B series">Ford B series</a>, B600, Gas ('81-'89) %
+Ford B series, B700, Gas ('81-'89) %
+Ford B series, B800, Diesel ('95-'98)
+</p>
+</td></tr>
+<tr>
+<td>C60%C70%C72%C80%C82%C90%C92
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_C_series" class="extiw" title="w:Ford C series">Ford C series</a>, C600, Gas ('81-'86) %
+Ford C series, C700, Gas, Sleeper Cab ('81-'82) %
+Ford C series, C700, Gas ('81-'86) %
+Ford C series, C800, Gas ('81-'86) %
+Ford C series, C800, Gas, Sleeper Cab ('81-'82) %
+Ford C series, C900, Gas ('81) %
+Ford C series, C900, Gas, Sleeper Cab ('81) %
+</p>
+</td></tr>
+<tr>
+<td>D64%D70%D72%D74%D76%D80%D82%D84%D86
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_C_series" class="extiw" title="w:Ford C series">Ford C series</a>, C600, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'86) %
+Ford C series, C7000, Caterpillar 3208 Diesel ('81-'86) %
+Ford C series, C7000, Caterpillar 3208 Diesel, Sleeper Cab ('81-'82) %
+Ford C series, C700, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'86) %
+Ford C series, C700, Detroit Diesel 8.2L "Fuel Pincher" V8, Sleeper Cab ('81-'82) %
+Ford C series, C8000, Caterpillar 3208 Diesel ('81-'90) %
+Ford C series, C8000, Caterpillar 3208 Diesel, Sleeper Cab ('81-'82) %
+Ford C series, C800, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87) %
+Ford C series, C800, Detroit Diesel 8.2L "Fuel Pincher" V8, Sleeper Cab ('81-'82)
+</p>
+</td></tr>
+<tr>
+<td>F53%F59%F5D%F5K
+</td>
+<td>
+<p>Ford F-53 Class A Motorhome Stripped Chassis ('89-'09) %
+Ford F-59 Commercial Stripped Chassis ('89-'94) %
+Ford F-53 Class A Motorhome Stripped Chassis ('11-) %
+Ford F-59 Commercial Stripped Chassis ('11-)
+</p>
+</td></tr>
+<tr>
+<td>F60%F61%F62%F70%F71%F72%F77%F80%F82%F82%F83%F85
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Sixth_generation_(1980–1999)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-600, Gas ('81-'94) %
+Ford F-Series, F-600, Gas, Chassis Cowl ('81-'89) %
+Ford F-Series, F-600, Gas, Low Profile ('90-'94) %
+Ford F-Series, F-700, Gas ('81-'98) %
+Ford F-Series, F-700, Gas, Chassis Cowl ('81-'89) %
+Ford F-Series, F-700, Gas, Low Profile ('90-'98) %
+Ford F-Series, F-700, Gas, 4x4 ('83-'98) %
+Ford F-Series, F-800, Diesel ('95-'99) %
+Ford F-Series, F-800, Gas ('81-'91) %
+Ford F-Series, F-800, Diesel, Low Profile ('95-'98) %
+Ford F-Series, F-800, Gas, Chassis Cowl ('81-'89) %
+Ford F-Series, F-800, Diesel, Chassis Cowl ('95-'98)
+</p>
+</td></tr>
+<tr>
+<td>F65%F66%F75%F76%F6F%F6G%F6H%F6J%F6U%F7F
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Seventh_generation_(2000–2015)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Regular Cab, Straight Frame ('00-'09) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Pro Loader (Kick-Up Frame) ('04-'09) %
+Ford F-Series, F-750 Super Duty, Regular Cab, Straight Frame ('00-'09) %
+Ford F-Series, F-750 Super Duty, Regular Cab, S (Severe Service) ('04-'07) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Straight Frame, Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Pro Loader (Kick-Up Frame), Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Straight Frame, Gas ('12-'15) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Pro Loader (Kick-Up Frame), Gas ('12-'15) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Straight Frame, Gas (For U-Haul) ('12-'15) %
+Ford F-Series, F-750 Super Duty, Regular Cab, Straight Frame, Diesel ('10-'15)
+</p>
+</td></tr>
+<tr>
+<td>F6A%F6B%F6D%F6E%F6T%F7A%F7D%F7T
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Eighth_generation_(2016–present)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Regular Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Pro Loader (Kick-Up Frame), Gas ('16-'24) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Pro Loader (Kick-Up Frame), Diesel ('16-'24) %
+Ford F-Series, F-650 Super Duty, Regular Cab, Tractor, Diesel ('16-'23) %
+Ford F-Series, F-750 Super Duty, Regular Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-750 Super Duty, Regular Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-750 Super Duty, Regular Cab, Tractor, Diesel ('16-'23)
+</p>
+</td></tr>
+<tr>
+<td>F80%F90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford L800</a> Gas ('81-'84) %
+Ford L900 Gas ('81-'82)
+</p>
+</td></tr>
+<tr>
+<td>G80
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Sixth_generation_(1980–1999)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, FT-800, Gas, Tandem Axle ('83-'90)
+</td></tr>
+<tr>
+<td>G60%G70%G80
+</td>
+<td>
+<p>Ford P600, Gas, Parcel Stripped Chassis, Low Profile ('93-'94) %
+Ford P700, Gas, Parcel Stripped Chassis ('95-'98) %
+Ford P800, Diesel, Parcel Stripped Chassis ('95-'98)
+</p>
+</td></tr>
+<tr>
+<td>H80%H82%H84%H86
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_C_series" class="extiw" title="w:Ford C series">Ford C series</a>, CT8000, Caterpillar 3208 Diesel (Tandem Axle) ('81-'90) %
+Ford C series, CT8000, Caterpillar 3208 Diesel, Sleeper Cab (Tandem Axle) ('81-'82) %
+Ford C series, CT800, Detroit Diesel 8.2L "Fuel Pincher" V8 (Tandem Axle) ('81-'82) %
+Ford C series, CT800, Detroit Diesel 8.2L "Fuel Pincher" V8, Sleeper Cab (Tandem Axle) ('81-'82)
+</p>
+</td></tr>
+<tr>
+<td>H60%H70%H81%H85
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_Cargo" class="extiw" title="w:Ford Cargo">Ford Cargo</a>, CF6000 (Class 6) ('86-'09) %
+Ford Cargo, CF7000 (Class 7) ('86-'96) %
+Ford Cargo, CF8000 (Class 8) ('87-'97) %
+Ford Cargo, CFT8000 (Class 8) (Tandem Axle) ('88-'97) %
+</p>
+</td></tr>
+<tr>
+<td>J64%J65%J70%J74%J75
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_B_series#Sixth_generation_(1980–1998)" class="extiw" title="w:Ford B series">Ford B series</a>, B600, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87) %
+Ford B series, B600, Ford-New Holland Diesel ('87-'92) or Cummins Diesel ('93-'94) %
+Ford B series, B7000, Caterpillar 3208 Diesel ('83-'87) %
+Ford B series, B700, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87) %
+Ford B series, B700, Ford-New Holland Diesel ('87-'92) or Cummins Diesel ('93-'94)
+</p>
+</td></tr>
+<tr>
+<td>K62%K64%K65%K69%K70%K71%K72%K74%K75%K77%K79%K84%K85%K87%K89
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Sixth_generation_(1980–1999)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-600, Diesel, Low Profile ('90-'94) %
+Ford F-Series, F-600, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87), Ford-New Holland Diesel ('88-'92), or Cummins Diesel ('93-'94) %
+Ford F-Series, F-600, Diesel, Chassis Cowl ('81-'94) %
+Ford F-Series, F-600, Diesel, Chassis Cowl, Low Profile ('90-'94) %
+Ford F-Series, F-7000, Caterpillar 3208 Diesel ('83-'87) %
+Ford F-Series, F-7000, Caterpillar 3208 Diesel, Chassis Cowl ('83-'87) %
+Ford F-Series, F-700, Diesel, Low Profile ('90-'94) %
+Ford F-Series, F-700, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87), Ford-New Holland Diesel ('88-'92), or Cummins Diesel ('93-'94) %
+Ford F-Series, F-700, Diesel, Chassis Cowl ('81-'94) %
+Ford F-Series, F-700, Diesel, 4x4 ('83-'88) %
+Ford F-Series, F-700, Diesel, Chassis Cowl, Low Profile ('90-'94) %
+Ford F-Series, F-800, Detroit Diesel 8.2L "Fuel Pincher" V8 ('81-'87), Ford-New Holland Diesel ('88-'92), or Cummins Diesel ('93-'94) %
+Ford F-Series, F-800, Diesel, Chassis Cowl ('81-'94) %
+Ford F-Series, F-8000, Caterpillar 3208 Diesel ('83-'87) %
+Ford F-Series, F-8000, Caterpillar 3208 Diesel, Chassis Cowl ('83-'87) %
+</p>
+</td></tr>
+<tr>
+<td>K80%K82%K82%K90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford L8000</a> Diesel ('81-'89) %
+Ford L8000 w/Ford-New Holland Diesel engine ('87-'92) %
+Ford L8000 w/Cummins Diesel engine ('93-'97) %
+Ford L9000 Diesel ('81-'97)
+</p>
+</td></tr>
+<tr>
+<td>L45%L55
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_LCF" class="extiw" title="w:Ford LCF">Ford LCF</a>, L45 (Class 4) ('06-'09) %
+Ford LCF, L55 (Class 5) ('06-'09)
+</p>
+</td></tr>
+<tr>
+<td>L80%L84%L90%L90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Sixth_generation_(1980–1999)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, FT-8000, Caterpillar 3208 Diesel, Tandem Axle ('83-'87) %
+Ford F-Series, FT-800, Diesel, Tandem Axle ('83-'84) %
+Ford F-Series, FT-900, Detroit Diesel 8.2L "Fuel Pincher" V8, Tandem Axle ('85-'87) %
+Ford F-Series, FT-900, Ford-New Holland Diesel ('88-'92) or Cummins Diesel ('93-'98), Tandem Axle 
+</p>
+</td></tr>
+<tr>
+<td>N60%N70%N80%N90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LN600</a> Gas (Short-nose) ('81-'85) %
+Ford LN700 Gas (Short-nose) ('81-'85) %
+Ford LN800 Gas (Short-nose) ('81-'84) %
+Ford LN900 Gas (Short-nose) ('81)
+</p>
+</td></tr>
+<tr>
+<td>N80%N90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford L8501</a> (Louisville 8500 Series, 101 in. BBC) (Short hood, Set-forward Front Axle) ('97-'98) %
+Ford L9501 (Louisville 9500 Series, 101 in. BBC) (Short hood, Set-forward Front Axle) ('97-'98)
+</p>
+</td></tr>
+<tr>
+<td>R64%R70%R72%R72%R74%R80%R82%R82%R90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LN600</a> w/Detroit Diesel 8.2L "Fuel Pincher" V8 (Short-nose) ('81-'85) %
+Ford LN7000 w/Caterpillar 3208 Diesel (Short-nose) ('81-'86) %
+Ford LN7000 w/Ford-New Holland Diesel engine (Short-nose) ('87-'92) %
+Ford LN7000 w/Cummins Diesel engine (Short-nose) ('93-'97) %
+Ford LN700 w/Detroit Diesel 8.2L "Fuel Pincher" V8 (Short-nose) ('81-'86) %
+Ford LN8000 Diesel (Short-nose) ('81-'89) %
+Ford LN8000 w/Ford-New Holland Diesel engine (Short-nose) ('87-'92) %
+Ford LN8000 w/Cummins Diesel engine (Short-nose) ('93-'97) %
+Ford LN9000 Diesel (Short-nose) ('81-'97)
+</p>
+</td></tr>
+<tr>
+<td>S80%S90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LNT800</a> Gas (Short-nose, Tandem Rear Axle) ('81-'84) %
+Ford LNT900 Gas (Short-nose, Tandem Rear Axle) ('81)
+</p>
+</td></tr>
+<tr>
+<td>S80%S82%S82%S85%S85%S90%S95
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LS8000</a> Diesel (Set-back Front Axle) ('87-'89) %
+Ford LS8000 w/Ford-New Holland Diesel engine (Set-back Front Axle) ('87-'92) %
+Ford LS8000 w/Cummins Diesel engine (Set-back Front Axle) ('93-'97) %
+Ford LA8000 (AeroMax 106 L8000) w/Ford-New Holland Diesel engine (Set-back Front Axle) ('91-'92) %
+Ford LA8000 (AeroMax 106 L8000) w/Cummins Diesel engine (Set-back Front Axle) ('93-'97) %
+Ford LS9000 Diesel (Set-back Front Axle) ('87-'97) %
+Ford LA9000 Diesel (AeroMax 106 L9000) (Set-back Front Axle) ('88-'97)
+</p>
+</td></tr>
+<tr>
+<td>S80%S86%S92%S96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford L8513</a> (Louisville 8500 Series, 113 in. BBC) (Set-back Front Axle) ('96-'98) %
+Ford LT8513 (Louisville 8500 Series, 113 in. BBC) (Set-back Front Axle, Tandem Rear Axle) ('96-'98) %
+Ford L9513 (Louisville 9500 Series, 113 in. BBC) (Set-back Front Axle) ('96-'98) %
+Ford LT9513 (Louisville 9500 Series, 113 in. BBC) (Set-back Front Axle, Tandem Rear Axle) ('96-'98)
+</p>
+</td></tr>
+<tr>
+<td>T80%T90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LT800</a> Gas (Tandem Axle) ('81-'84) %
+Ford LT900 Gas (Tandem Axle) ('81)
+</p>
+</td></tr>
+<tr>
+<td>T64%T65%T74%T75%T77%T84%T85%T90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Sixth_generation_(1980–1999)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-600, Ford-New Holland Diesel engine ('87) %
+Ford F-Series, F-600, Ford-New Holland Diesel engine, Chassis Cowl ('87) %
+Ford F-Series, F-700, Ford-New Holland Diesel engine ('87) %
+Ford F-Series, F-700, Ford-New Holland Diesel engine, Chassis Cowl ('87) %
+Ford F-Series, F-700, Ford-New Holland Diesel engine, 4x4 ('87) %
+Ford F-Series, F-800, Ford-New Holland Diesel engine ('87) %
+Ford F-Series, F-800, Ford-New Holland Diesel engine, Chassis Cowl ('87) %
+Ford F-Series, FT-900, Ford-New Holland Diesel engine, Tandem Axle ('87) %
+</p>
+</td></tr>
+<tr>
+<td>U80%U82%U82%U90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LT8000</a> (Tandem Axle) ('81-'89) %
+Ford LT8000 w/Ford-New Holland Diesel engine (Tandem Axle) ('87-'92) %
+Ford LT8000 w/Cummins Diesel engine (Tandem Axle) ('93-'97) %
+Ford LT9000 (Tandem Axle) ('81-'97)
+</p>
+</td></tr>
+<tr>
+<td>V80%V90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LTS800</a> Gas (Set-back Front Axle, Tandem Rear Axle) ('81-'82) %
+Ford LTS900 Gas (Set-back Front Axle, Tandem Rear Axle) ('81)
+</p>
+</td></tr>
+<tr>
+<td>V90%V95%V99
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LL9000</a> ('87-'97) %
+Ford LLA9000 (AeroMax 120 L9000) (Long hood, Set-back Front Axle) ('92-'97) %
+Ford LLS9000 (Long hood, Set-back Front Axle) ('92-'97)
+</p>
+</td></tr>
+<tr>
+<td>V92%V96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford L9522</a> (Louisville 9500 Series, 122 in. BBC) (Long hood, Set-back Front Axle) ('97-'98) %
+Ford LT9522 (Louisville 9500 Series, 122 in. BBC) (Long hood, Set-back Front Axle, Tandem Rear Axle) ('97-'98)
+</p>
+</td></tr>
+<tr>
+<td>W65%W66%W67%W75%W76%W6F%W6G%W6H%W6J%W7F
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Seventh_generation_(2000–2015)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Crew Cab, Straight Frame ('00-'09)%
+Ford F-Series, F-650 Super Duty, Crew Cab, Pro Loader (Kick-Up Frame) ('04-'09) %
+Ford F-Series, F-650 Super Duty, SuperCrewzer Crew Cab, ('01-'03) %
+Ford F-Series, F-750 Super Duty, Crew Cab, Straight Frame ('00-'09) %
+Ford F-Series, F-750 Super Duty, Crew Cab, S (Severe Service) ('04-'07) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Straight Frame, Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Pro Loader (Kick-Up Frame), Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Straight Frame, Gas ('12-'15) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Pro Loader (Kick-Up Frame), Gas ('12-'15) %
+Ford F-Series, F-750 Super Duty, Crew Cab, Straight Frame, Diesel ('10-'15)
+</p>
+</td></tr>
+<tr>
+<td>W6A%W6B%W6D%W6E%W6T%W7A%W7D%W7T
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Eighth_generation_(2016–present)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Crew Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Pro Loader (Kick-Up Frame), Gas ('16-'24) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Pro Loader (Kick-Up Frame), Diesel ('16-'24) %
+Ford F-Series, F-650 Super Duty, Crew Cab, Tractor, Diesel ('16-'23) %
+Ford F-Series, F-750 Super Duty, Crew Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-750 Super Duty, Crew Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-750 Super Duty, Crew Cab, Tractor, Diesel ('16-'23)
+</p>
+</td></tr>
+<tr>
+<td>W80%W82%W82%W90
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LNT8000</a> Diesel (Short-nose) (Tandem Axle) ('81-'89) %
+Ford LNT8000 w/Ford-New Holland Diesel engine (Short-nose) (Tandem Axle) ('87-'92) %
+Ford LNT8000 w/Cummins Diesel engine (Short-nose) (Tandem Axle) ('93-'97) %
+Ford LNT9000 Diesel (Short-nose) (Tandem Axle) ('81-'97)
+</p>
+</td></tr>
+<tr>
+<td>W86%W96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford LT8501</a> (Louisville 8500 Series, 101 in. BBC) (Short hood, Set-forward Front Axle, Tandem Rear Axle) ('97-'98) %
+Ford LT9501 (Louisville 9500 Series, 101 in. BBC) (Short hood, Set-forward Front Axle, Tandem Rear Axle) ('97-'98)
+</p>
+</td></tr>
+<tr>
+<td>X65%X66%X75%X76%X6F%X6G%X6H%X6J%X7F
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Seventh_generation_(2000–2015)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Super Cab, Straight Frame ('00-'09)%
+Ford F-Series, F-650 Super Duty, Super Cab, Pro Loader (Kick-Up Frame) ('04-'09) %
+Ford F-Series, F-750 Super Duty, Super Cab, Straight Frame ('00-'09) %
+Ford F-Series, F-750 Super Duty, Super Cab, S (Severe Service) ('04-'07) %
+Ford F-Series, F-650 Super Duty, Super Cab, Straight Frame, Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Super Cab, Pro Loader (Kick-Up Frame), Diesel ('10-'15) %
+Ford F-Series, F-650 Super Duty, Super Cab, Straight Frame, Gas ('12-'15) %
+Ford F-Series, F-650 Super Duty, Super Cab, Pro Loader (Kick-Up Frame), Gas ('12-'15) %
+Ford F-Series, F-750 Super Duty, Super Cab, Straight Frame, Diesel ('10-'15)
+</p>
+</td></tr>
+<tr>
+<td>X6A%X6B%X6D%X6E%X6T%X7A%X7D%X7T
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)#Eighth_generation_(2016–present)" class="extiw" title="w:Ford F-Series (medium-duty truck)">Ford F-Series</a>, F-650 Super Duty, Super Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-650 Super Duty, Super Cab, Pro Loader (Kick-Up Frame), Gas ('16-'24) %
+Ford F-Series, F-650 Super Duty, Super Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-650 Super Duty, Super Cab, Pro Loader (Kick-Up Frame), Diesel ('16-'24) %
+Ford F-Series, F-650 Super Duty, Super Cab, Tractor, Diesel ('16-'23) %
+Ford F-Series, F-750 Super Duty, Super Cab, Straight Frame, Gas ('16-) %
+Ford F-Series, F-750 Super Duty, Super Cab, Straight Frame, Diesel ('16-) %
+Ford F-Series, F-750 Super Duty, Super Cab, Tractor, Diesel ('16-'23)
+</p>
+</td></tr>
+<tr>
+<td>X82%X86
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford L8511</a> (Louisville 8500 Series, 111 in. BBC) (Set-forward Front Axle) ('98) %
+Ford LT8511 (Louisville 8500 Series, 111 in. BBC) (Set-forward Front Axle, Tandem Rear Axle) ('98)
+</p>
+</td></tr>
+<tr>
+<td>X91%X95%X96%X97%X98
+</td>
+<td>
+<p>Ford CLT9000 (Tandem Axle), 110 in. Sleeper Cab ('81-'91) %
+Ford CLT9000 (Tandem Axle), 54 in. Non-Sleeper Cab ('81-'82) %
+Ford CLT9000 (Tandem Axle), 64 in. Non-Sleeper Cab ('81-'91) %
+Ford CLT9000 (Tandem Axle), 76 in. Sleeper Cab ('81-'82) %
+Ford CLT9000 (Tandem Axle), 88 in. Sleeper Cab ('81-'91) 
+</p>
+</td></tr>
+<tr>
+<td>Y80%Y82%Y82%Y90%Y95
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#First_generation_(1970–1995)" class="extiw" title="w:Ford L series">Ford LTS8000</a> (Set-back Front Axle, Tandem Rear Axle) ('81-'89) %
+Ford LTS8000 w/Ford-New Holland Diesel engine (Set-back Front Axle, Tandem Rear Axle) ('87-'92) %
+Ford LTS8000 w/Cummins Diesel engine (Set-back Front Axle, Tandem Rear Axle) ('93-'97) %
+Ford LTS9000 (Set-back Front Axle, Tandem Rear Axle) ('81-'97) %
+Ford LTA9000 (AeroMax 106 L9000) (Set-back Front Axle, Tandem Rear Axle) ('89-'97) %
+</p>
+</td></tr>
+<tr>
+<td>Y80%Y86%Y92%Y96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford A8513</a> (AeroMax 8500 Series, 113 in. BBC) (Set-back Front Axle) ('96-'98) %
+Ford AT8513 (AeroMax 8500 Series, 113 in. BBC) (Set-back Front Axle, Tandem Rear Axle) ('96-'98) %
+Ford A9513 (AeroMax 9500 Series, 113 in. BBC) (Set-back Front Axle) ('96-'98) %
+Ford AT9513 (AeroMax 9500 Series, 113 in. BBC) (Set-back Front Axle, Tandem Rear Axle) ('96-'98)
+</p>
+</td></tr>
+<tr>
+<td>Z91%Z95%Z96%Z97%Z98
+</td>
+<td>
+<p>Ford CL9000, 110 in. Sleeper Cab ('81-'91) %
+Ford CL9000, 54 in. Non-Sleeper Cab ('81-'82) %
+Ford CL9000, 64 in. Non-Sleeper Cab ('81-'91) %
+Ford CL9000, 76 in. Sleeper Cab ('81-'82) %
+Ford CL9000, 88 in. Sleeper Cab ('81-'91)
+</p>
+</td></tr>
+<tr>
+<td>Z92%Z96
+</td>
+<td>
+<p><a href="https://en.wikipedia.org/wiki/Ford_L_series#Second_generation_(1996–1998)" class="extiw" title="w:Ford L series">Ford L9511</a> (Louisville 9500 Series, 111 in. BBC) (Set-forward Front Axle) ('98) %
+Ford LT9511 (Louisville 9500 Series, 111 in. BBC) (Set-forward Front Axle, Tandem Rear Axle) ('98)
+</p>
+</td></tr></tbody></table>

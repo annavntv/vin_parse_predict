@@ -1,0 +1,71 @@
+<table class="wikitable">
+<tbody><tr>
+<th>VIN code
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>B
+</td>
+<td>Active belts (Manual)
+</td></tr>
+<tr>
+<td>P
+</td>
+<td>Passive belts (Motorized)
+</td></tr>
+<tr>
+<td>C
+</td>
+<td>Active Belts and Driver-side Front Airbag
+</td></tr>
+<tr>
+<td>A
+</td>
+<td>Active (Manual) Belt (Driver) &amp; Passive (Motorized) Belt (Passenger) plus Driver-side Front Airbag ('94 Tempo/Topaz)
+</td></tr>
+<tr>
+<td>L
+</td>
+<td>Active Belts and Driver and Passenger (First Generation) Front Airbags
+</td></tr>
+<tr>
+<td>F
+</td>
+<td>Active Belts and Driver and Passenger (Second Generation) Front Airbags
+</td></tr>
+<tr>
+<td>K
+</td>
+<td>Active Belts and Driver and Passenger (Second Generation) Front Airbags (only applies to '98-Early '01 Escort ZX2)
+</td></tr>
+<tr>
+<td>H
+</td>
+<td>Active Belts and Driver and Passenger Front and Side &amp;/or Side Curtain Airbags ('99-'09)
+</td></tr>
+<tr>
+<td>B
+</td>
+<td>Active Belts plus Driver and Passenger Front Airbags &amp; Side Airbags (1st row) ('10-)
+</td></tr>
+<tr>
+<td>H
+</td>
+<td>Active Belts plus Driver and Passenger Front Airbags &amp; Side Airbags (1st &amp; 2nd row) ('10-)
+</td></tr>
+<tr>
+<td>D
+</td>
+<td>Active Belts plus Driver and Passenger Front Airbags &amp; Side Airbags (1st &amp; 2nd row) &amp; Driver-side Knee Airbags ('10-)
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>Active Belts plus Driver and Passenger Front Airbags &amp; Side Airbags (1st &amp; 2nd row) &amp; Driver and Passenger Knee Airbags ('13-)
+</td></tr>
+<tr>
+<td>G
+</td>
+<td>Active Belts plus Driver and Passenger Front Airbags &amp; Side Airbags (1st row) &amp; Driver and Passenger Knee Airbags ('17-'22 Ford GT)
+</td></tr></tbody></table>
