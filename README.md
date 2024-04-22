@@ -16,5 +16,17 @@
 
 Пример работы класса в [run_vin.py](https://github.com/annavntv/vin_parse_predict/edit/master/run_vin.py)
 
+**Навыки и инструменты:**
+1. Pandas
+2. Регулярные выражения (re)
+3. Парсинг текстовых файлов и веб-страниц
+4. Визуализация (matplotlib, seaborn)
+5. EDA
+6. CatBoost
+7. Анализ важности признаков
+8. pickle
+9. ООП
+
+
 
 
